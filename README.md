@@ -23,7 +23,7 @@ Public Outreach: The public can access research materials, view publications, an
 # Usage
 User Registration and Login: Use the registration form to create a new user account, or log in if you already have an account.
 
-Publication Management: In the admin panel (accessible at http://localhost/research-website/admin), you can manage users, publications, and research materials.
+Publication Management: Users, publications, and research materials can be managed and stored in easily accessible folders.
 
 Research Materials: Users can upload research materials and datasets, which are searchable and categorized.
 
@@ -31,17 +31,14 @@ Collaboration: Utilize the forums, messaging system, and collaboration tools to 
 
 Public Outreach: The public can access your research materials, view publications, and contact your research team.
 
-# Contact me
+# Contact info
 Do you have any questions, need assistance, suggestions or feedback? Don't hesitate toi reach out to me at chrisabetianbe777@gmail.com
-
-# License
-This research website is released under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
-
 
 # Technologies ssed 
 The website is built using HTML, CSS, Javascript
 
 # Sketch
 ![20231028_141020-min](https://github.com/Zionchildren/My-First-Web-Project/assets/149249245/bb112d20-0e4e-4eee-9100-3a62f0ae92d4)
+
 
 Thank you for your interest in our research website project. We appreciate your contributions and hope that it becomes a valuable resource for researchers and the public.
