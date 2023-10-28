@@ -1,4 +1,4 @@
-# My-First-Web-Project
+# Welcome to my Research with Chris: Your Energy Transition Awareness Companion 
 My first html, css and javascript webpage
 Project Overview
 My research website is designed to serve as a central platform for sharing, accessing, and collaborating on research materials, data, publications, and insights. It aims to facilitate knowledge sharing within the research community and engage the public in our research activities.
