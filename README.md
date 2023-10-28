@@ -22,9 +22,13 @@ Public Outreach: The public can access research materials, view publications, an
 
 # Usage
 User Registration and Login: Use the registration form to create a new user account, or log in if you already have an account.
+
 Publication Management: In the admin panel (accessible at http://localhost/research-website/admin), you can manage users, publications, and research materials.
+
 Research Materials: Users can upload research materials and datasets, which are searchable and categorized.
+
 Collaboration: Utilize the forums, messaging system, and collaboration tools to interact with other researchers and promote collaborations.
+
 Public Outreach: The public can access your research materials, view publications, and contact your research team.
 
 # Contact me
