@@ -1,9 +1,14 @@
 # Welcome to Research with Chris: Your Energy Transition Awareness Companion
 Website Overview
+
 Key features
+
 Usage
+
 Contact me
+
 Technologies used
+
 Sketch
 
 # Website Overview
