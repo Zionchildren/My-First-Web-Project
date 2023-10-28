@@ -1,4 +1,6 @@
 # Welcome to Research with Chris: Your Energy Transition Awareness Companion
+Table of contents:
+
 Website Overview
 
 Key features
