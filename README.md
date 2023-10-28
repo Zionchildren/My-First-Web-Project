@@ -42,6 +42,6 @@ This research website is released under the MIT License. You are free to use, mo
 The website is built using HTML, CSS, Javascript
 
 # Sketch
-
+![20231028_141020-min](https://github.com/Zionchildren/My-First-Web-Project/assets/149249245/bb112d20-0e4e-4eee-9100-3a62f0ae92d4)
 
 Thank you for your interest in our research website project. We appreciate your contributions and hope that it becomes a valuable resource for researchers and the public.
