@@ -11,9 +11,13 @@ Research with Chris is designed to serve as a central platform for sharing, acce
 
 # Key features:
 User Registration and Authentication: Users can create accounts, log in, and manage their profiles.
+
 Publication Management: Researchers can add, edit, and categorize publications. Users can search and view publications.
+
 Research Materials: Users can upload and share research materials, datasets, and resources. These materials are searchable and can be categorized.
+
 Collaboration Tools: The website provides forums, messaging systems, and collaboration tools to facilitate communication and cooperation among researchers.
+
 Public Outreach: The public can access research materials, view publications, and get in touch with the research team.
 
 # Usage
@@ -24,10 +28,7 @@ Collaboration: Utilize the forums, messaging system, and collaboration tools to 
 Public Outreach: The public can access your research materials, view publications, and contact your research team.
 
 # Contact me
-chrisabetianbe777@gmail.com
-
-# Support
-If you encounter any issues, have questions, or need assistance, please contact our support team at chrisabetianbe777@gmail.com.
+Do you have any questions, need assistance, suggestions or feedback? Don't hesitate toi reach out to me at chrisabetianbe777@gmail.com
 
 # License
 This research website is released under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
